@@ -1,0 +1,15 @@
+# requirements needed for the program to function. 
+# Use pip install for python 2 and pip3 install if running on 
+# python 3
+
+numpy
+pandas
+gensim
+logging
+nltk
+contractions
+scikit-learn
+matplotlib
+seaborn
+summa
+mglearn
